@@ -18,7 +18,7 @@ Para utilizar esta calculadora, asegúrate de tener Go instalado en tu sistema.
 
 Clona este repositorio:
 ```bash
-git clone https://github.com/Nagarehazh/gognition-nivel1-calculadora.git
+git clone https://github.com/Gognition/gognition-nivel1-calculadora.git
 ```
 
 ## 💻️ Uso
