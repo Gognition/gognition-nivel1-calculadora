@@ -15,10 +15,12 @@ Para utilizar esta calculadora, asegúrate de tener Go instalado en tu sistema.
 - Go (versión 1.15 o superior recomendada)
 
 ### Instalación
+1. Haz un fork de este repositorio haciendo clic en el botón "Fork" en la parte superior derecha de esta página.
 
-Clona este repositorio:
+2. Clona tu fork a tu máquina local:
+
 ```bash
-git clone https://github.com/Gognition/gognition-nivel1-calculadora.git
+git clone https://github.com/TU_USUARIO/gognition-nivel1-calculadora.git
 ```
 
 ## 💻️ Uso
